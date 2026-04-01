@@ -1,0 +1,33 @@
+📌 Funcionalidade: Login de usuário
+
+ID do Teste: CT-001
+Título: Validar login com credenciais válidas
+
+Pré-condição:
+
+Usuário já cadastrado no sistema
+
+Passos:
+
+Acessar a página de login
+Inserir um e-mail válido
+Inserir uma senha válida
+Clicar no botão "Entrar"
+
+Dados de Teste:
+
+E-mail: usuario@email.com
+Senha: 123456
+
+Resultado Esperado:
+
+O usuário deve ser redirecionado para a página inicial (dashboard)
+Deve aparecer uma mensagem de boas-vindas
+
+Resultado Obtido:
+
+(Preencher após executar o teste)
+
+Status:
+
+(✔️ Aprovado / ❌ Reprovado)
