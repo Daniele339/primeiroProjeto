@@ -52,7 +52,7 @@ O foco está na criação, organização e execução de casos de teste document
 
 ## ▶️ Como Executar o Teste
 
-1. Abrir o arquivo `teste_manual.txt`
+1. Abrir o arquivo `exemplo de texte manual.txt`
 2. Seguir os passos descritos no caso de teste
 3. Executar manualmente no sistema
 4. Comparar o resultado esperado com o obtido
